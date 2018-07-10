@@ -1,3 +1,4 @@
 # hello-world
-First post
+First post.
+
 Hi, I'm fairly new to this.
